@@ -1,3 +1,7 @@
+**Note:** This is a modified version of the environment used for running the experiments in the paper MDPGT: Momentum-based Decentralized Policy Gradient Tracking. Code for running the MDPGT algorithm is available at: https://github.com/xylee95/MD-PGT
+
+# Original README
+
 **Status:** Archive (code is provided as-is, no updates expected)
 
 # Multi-Agent Particle Environment
